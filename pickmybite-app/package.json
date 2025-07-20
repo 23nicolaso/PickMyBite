@@ -1,0 +1,35 @@
+{
+  "name": "pickmybite-app",
+  "license": "0BSD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.1.2",
+    "@react-native-community/slider": "^4.5.6",
+    "base-64": "^1.0.0",
+    "expo": "~53.0.9",
+    "expo-auth-session": "~6.1.5",
+    "expo-crypto": "~14.1.4",
+    "expo-dev-client": "~5.1.8",
+    "expo-location": "~18.1.5",
+    "expo-random": "^14.0.1",
+    "expo-secure-store": "~14.2.3",
+    "expo-status-bar": "~2.2.3",
+    "expo-web-browser": "~14.1.6",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.16.0",
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-maps": "1.20.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

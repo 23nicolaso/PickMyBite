@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "pickmybite-app",
+    "slug": "pickmybite-app",
+    "scheme": "pickmybite",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.nicolas.pickmybite",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.nicolas.pickmybite",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-web-browser",
+      "expo-secure-store"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "7dc99f9c-05df-4fdf-a380-f2dd4baadc91"
+      }
+    },
+    "owner": "infiten"
+  }
+}
