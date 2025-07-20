@@ -73,7 +73,7 @@ That's it\! The app is now live on your phone. ✨
 
 This is a full-stack application, combining a mobile frontend with a powerful, scalable, and serverless backend.
 
-### $\color{CarnationPink}{Frontend \ (App.js)}$
+### Frontend (App.js)
 
 Built with $\color{Cyan}{React \ Native \ (Expo)}$, allowing one codebase to rule them all (iOS & Android).
 
@@ -85,7 +85,7 @@ Built with $\color{Cyan}{React \ Native \ (Expo)}$, allowing one codebase to rul
  Mapping: The beautiful heatmap is rendered using `react-native-maps`, plotting visited locations fetched from the backend.
 ```
 
-### $\color{CarnationPink}{Backend \ (Index.js)}$
+### Backend (Index.js)
 
 A serverless $\color{Cyan}{Node.JS, \ Express.JS}$ application deployed on $\color{Apricot}{AWS \ Lambda}$
 
