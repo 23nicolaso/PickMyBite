@@ -140,11 +140,13 @@ The backend provides the following RESTful endpoints:
 
 -----
 
-\<div align="center"\>
-I hope you love **Pick My Bite** as much as I loved building it\!
-\<br/\>
-Happy eating\! 🎉
-\</div\>
+<div align="center"\>
+I hope you love **Pick My Bite** as much as I loved building it!
+<br/\>
+Happy eating! 🎉
+</div\>
+<br/\>
+<br/\>
 
 ```
 ```
