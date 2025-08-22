@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💖 Pick My Bite 🍽️
+# Pick My Bite 🍽️
 
 </div>
 
